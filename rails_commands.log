@@ -16,3 +16,31 @@ bundle exec rake test
 bundle exec rake test
 01/21/16 21:54:01
 bundle exec rake test
+01/21/16 21:57:54
+bundle exeec rake test
+01/21/16 21:57:58
+bundle exec rake test
+01/21/16 22:01:39
+bundle exec rake test
+01/21/16 22:03:26
+bundle exec rake test
+01/21/16 22:04:25
+bundle exec guard init
+01/21/16 22:05:52
+bundle exec guard init
+01/21/16 22:08:54
+bundle show minitest
+01/21/16 22:13:35
+bundle exec guard init
+01/21/16 22:22:51
+bundle exek rake test
+01/21/16 22:22:56
+bundle exec rake test
+01/21/16 22:23:54
+bundle exec rake test
+01/21/16 22:24:55
+bundle exec rake test
+01/21/16 22:26:31
+rails c
+01/22/16 19:01:25
+rails c
