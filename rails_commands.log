@@ -44,3 +44,41 @@ bundle exec rake test
 rails c
 01/22/16 19:01:25
 rails c
+01/22/16 19:07:13
+bundle exec rake test
+01/23/16 10:22:21
+rails x
+01/23/16 10:22:25
+rails s
+01/23/16 10:35:01
+rails s
+01/23/16 10:40:24
+bundle insstall
+01/23/16 10:40:32
+bundle install
+01/23/16 13:01:08
+rails s
+01/23/16 14:45:49
+bundle exec test rake
+01/23/16 18:59:44
+rails s
+01/23/16 19:03:30
+rails generate integration_test site_layout
+01/23/16 19:07:38
+bundle exex take test:integration
+01/23/16 19:07:44
+bundle exec take test:integration
+01/23/16 19:07:53
+bundle exec take test:integration
+01/23/16 20:22:02
+bundle exec rake test:integration
+01/23/16 20:23:22
+bundle exec rake test
+01/23/16 20:25:29
+rails generate controller Users new
+01/23/16 20:25:47
+bundle exec rake test
+01/23/16 20:29:47
+bundle exex rake test
+01/23/16 20:29:54
+bundle exec rake test
