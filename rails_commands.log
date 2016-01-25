@@ -82,3 +82,125 @@ bundle exec rake test
 bundle exex rake test
 01/23/16 20:29:54
 bundle exec rake test
+01/24/16 09:47:55
+rails generate controller Users new
+01/24/16 09:48:26
+rails generate model User name:string email:string
+01/24/16 09:54:23
+bundle exec rake db:update
+01/24/16 09:54:29
+bundle exec rake db:migrate
+01/24/16 18:01:30
+rails console --sandbox
+01/24/16 18:31:08
+bundle exec rake test:models
+01/24/16 18:31:46
+bundle exec rake test:models
+01/24/16 18:32:46
+rails console --sandbox
+01/24/16 18:33:12
+bundle exec rake test:models
+01/24/16 18:33:58
+bundle exec rake test:models
+01/24/16 18:35:37
+bundle exec rake test:models
+01/25/16 11:54:51
+rails c --sandboxx
+01/25/16 11:55:06
+rails c --sandbox
+01/25/16 11:56:41
+bundle exec rake test:models
+01/25/16 12:11:31
+bundle exec rake test
+01/25/16 12:20:51
+bundle exec rake test:models
+01/25/16 12:21:11
+bundle exec rake test:models
+01/25/16 12:21:17
+bundle exec rake test
+01/25/16 12:28:41
+bundle exec rake test
+01/25/16 12:30:30
+bundle exec rake test
+01/25/16 12:40:07
+bundle exec rake test
+01/25/16 12:40:32
+bundle exec rake test
+01/25/16 12:42:45
+bundle exec rake test
+01/25/16 12:54:50
+bundle exec rake test
+01/25/16 12:55:06
+bundle exec rake test
+01/25/16 12:55:47
+bundle exec rake test:models
+01/25/16 12:57:16
+bundle exec rake test:models
+01/25/16 12:58:26
+bundle exec rake test:models
+01/25/16 12:59:22
+bundle exec rake test:models
+01/25/16 13:08:36
+bundle exec rake test:models
+01/25/16 13:14:22
+bundle exec rake test:models
+01/25/16 13:17:51
+bundle exec rake test:models
+01/25/16 13:18:38
+bundle exec rake test:models
+01/25/16 13:20:45
+bundle exec rake test:models
+01/25/16 13:21:33
+bundle exec rake test:models
+01/25/16 13:22:41
+bundle exec rake test:models
+01/25/16 13:23:17
+bundle exec rake test:models
+01/25/16 13:29:52
+rails generate migration add_index_to_users_email
+01/25/16 13:30:56
+rails generate migration add_index_to_users_email
+01/25/16 13:36:36
+bundle exec rake db:migrate
+01/25/16 13:37:43
+bundle exec rake test
+01/25/16 13:37:51
+bundle exec rake db:migrate
+01/25/16 13:38:12
+bundle exec rake db:migrate
+01/25/16 13:38:16
+bundle exec rake test
+01/25/16 13:42:34
+bundle exec rake test
+01/25/16 13:45:51
+bundle exec rake test
+01/25/16 13:50:24
+rails generate migration add_password_digest_to_users password_digest:string
+01/25/16 13:54:18
+bundle exec db migrate
+01/25/16 13:54:21
+bundle exec db:migrate
+01/25/16 13:54:41
+bundle exec rake db:migrate
+01/25/16 13:56:54
+bundle install
+01/25/16 13:57:50
+bundle exec rake test
+01/25/16 13:58:51
+bundle exec rake test
+01/25/16 22:20:18
+bundle exec rake test
+01/25/16 22:20:24
+bundle exec rake test
+01/25/16 22:21:01
+bundle exec rake test:models
+01/25/16 22:21:09
+bundle exec rake test:models
+01/25/16 22:23:39
+bundle update
+01/25/16 22:24:30
+bundle exec rake test:models
+01/25/16 22:29:58
+bundle exec rake test:models
+01/25/16 22:32:20
+bundle exec rake test
